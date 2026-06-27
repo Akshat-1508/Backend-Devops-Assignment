@@ -386,18 +386,13 @@ The application handles:
 
 # 📷 Screenshots
 
-Add screenshots here before submission.
-
-Example:
-
-```
 screenshots/
 ![Home API](images/Screenshot%202026-06-27%20221308.png)
+
 ![Swagger UI](images/Screenshot%202026-06-27%20221419.png)
+
 ![POST API](images/Screenshot%202026-06-27%20221520.png)
 ```
-
----
 
 # 👨‍💻 Learning Outcomes
 
