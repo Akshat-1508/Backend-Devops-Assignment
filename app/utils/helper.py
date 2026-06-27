@@ -9,6 +9,7 @@ def save_uploaded_file(upload_file, upload_folder):
     """
 
     os.makedirs(upload_folder, exist_ok=True)
+    os.makedirs("reports", exist_ok=True)
 
     filename = f"{uuid.uuid4()}_{upload_file.filename}"
 
